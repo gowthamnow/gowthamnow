@@ -1,85 +1,66 @@
-<h1 align="center">🚀 Hi, I'm GOWTHAM T</h1>
-<h3 align="center">VLSI & PCB Designer | FPGA & RISC-V Enthusiast</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl0dWY1b2NnYzBodnQ5OWV6Z3N1YjV6Y3BjdGx4Nmx6YjR5b2RqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtqWBb3Mj3Amp32/giphy.gif" width="100">
+  GOWTHAM T
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl0dWY1b2NnYzBodnQ5OWV6Z3N1YjV6Y3BjdGx4Nmx6YjR5b2RqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtqWBb3Mj3Amp32/giphy.gif" width="100">
+</h1>
+<h3 align="center">⚡ Hardware Architect | 🧠 Cognitive Hardware Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/gowthamnow">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+Hardware+That+Thinks!;Open-Source+Advocate;Hackathon+Winner+%F0%9F%8F%86;Robotics+Tinkerer" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/gowthamnow/VSD-MAZE-ROBOT">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3YwM3NtZ3l1d2lqOXBzZHRxZ2t2a2VqN3l4cGt0bGx4d2FpY3Y4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Maze Robot Demo">
-  </a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F6YW1iN3Z2czk0aG1tZ2Z4bWl4Z2J1d2V4dHhxemR5cG1sN3J5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btT1T9qpQZWhNl6/giphy.gif" width="700">
+</div>
 
 ---
 
-### 🏆 Achievements
-- **1st Place @ DIR-V Hackathon (IIT Madras)** - Designed RISC-V based solutions with Shakti Processor  
-- **RoboFSET 4.0 Winner** - DST & TechnoXian 8.0 recognized embedded systems innovation  
-- **Featured in IEEE Xplore** - Published research on low-power VLSI architectures
+### 🚩 Featured Projects
+
+<div align="center">
+
+| [![Maze Solver](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp3Z3NpZXM0Z3B3c3JxemZxN2h2Y2p5Y2JmZ3h1NnY3ZGJ3N3Z4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQwfRZyn8l6SA/giphy-downsized-large.gif)](https://github.com/gowthamnow/VSD-MAZE-ROBOT) | [![RISC-V SoC](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZkZ2Z1emJ1Z3M5c3B4eW1udGZ5d2V3dG5ndjF6Y3V5d2p2eHh5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6vY1Z7q9Q9QZqZq0/giphy.gif)](https://github.com/gowthamnow/riscv-soc) | [![PCB Tester](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xhdjM3a3RwdTZ5ZzJ2eG0xZDR6bmJhN2V6c2VtZ3VnZzJ4cWJqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6vY1Z7q9Q9QZqZq0/giphy.gif)](https://github.com/gowthamnow/pcb-tester) |
+|:---:|:---:|:---:|
+| **FPGA Maze Robot** <br> 🏆 Award-Winning Design <br> [![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/your-demo-link) | **RISC-V SoC** <br> 🚀 Shakti Processor Implementation <br> [![Documentation](https://img.shields.io/badge/DOCS-00FF00?style=for-the-badge)](https://github.com/your-docs-link) | **Smart PCB Tester** <br> 🔍 Automated Fault Detection <br> [![Try Online](https://img.shields.io/badge/TRY_IT-0000FF?style=for-the-badge)](https://your-demo-link) |
+
+</div>
 
 ---
 
-### 🔧 Tech Stack
-#### **Hardware Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/Altium_Designer-FF0000?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium"/>
-  <img src="https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge&logo=cadence&logoColor=white" alt="Cadence"/>
-  <img src="https://img.shields.io/badge/DipTrace-000080?style=for-the-badge&logo=dipTrace&logoColor=white" alt="DipTrace"/>
-</p>
+### 🛠️ Tech Arsenal
 
-#### **FPGA & Embedded**
-<p align="left">
-  <img src="https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V"/>
-</p>
+<div align="center">
+  
+**Hardware Design**  
+<img src="https://img.shields.io/badge/Altium-Designer-FF0000?style=for-the-badge&logo=altiumdesigner&logoColor=white">
+<img src="https://img.shields.io/badge/Cadence-Virtuoso-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/KiCad-Electronics-314CB0?style=for-the-badge&logo=kicad">
 
-#### **Programming & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+**Programming**  
+<img src="https://img.shields.io/badge/C-Embedded-A8B9CC?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/Python-AI/ML-3776AB?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Verilog-HDL-000000?style=for-the-badge">
+
+**FPGA Tools**  
+<img src="https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge">
+<img src="https://img.shields.io/badge/Intel-Quartus-0071C5?style=for-the-badge">
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Demo |
-|---------|-------------|------|
-| [VSD Maze Robot](https://github.com/gowthamnow/VSD-MAZE-ROBOT) | FPGA-based autonomous maze solver | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F6YW1iN3Z2czk0aG1tZ2Z4bWl4Z2J1d2V4dHhxemR5cG1sN3J5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btT1T9qpQZWhNl6/giphy.gif" width="200"> |
-| [RISC-V SoC Design](https://github.com/gowthamnow/riscv-soc) | Shakti processor-based system-on-chip | [Watch Video](https://youtu.be/your-demo-link) |
-| [Smart PCB Tester](https://github.com/gowthamnow/pcb-tester) | Automated PCB fault detection system | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F6YW1iN3Z2czk0aG1tZ2Z4bWl4Z2J1d2V4dHhxemR5cG1sN3J5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btT1T9qpQZWhNl6/giphy.gif" width="200"> |
+### 🏆 Hackathon Glory
+
+<div align="center">
+  
+| [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN5Z2VhOGF6c3I4b2x1bWx5ZzN5aHZ6dGQ0bDl0eGJqNW0wN2x6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQwfRZyn8l6SA/giphy-downsized-large.gif" width="300">](https://your-hackathon-link) | [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN5Z2VhOGF6c3I4b2x1bWx5ZzN5aHZ6dGQ0bDl0eGJqNW0wN2x6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQwfRZyn8l6SA/giphy-downsized-large.gif" width="300">](https://your-hackathon-link) |
+|:---:|:---:|
+| **DIR-V Hackathon Champion** <br> IIT Madras | **RoboFSET 4.0 Winner** <br> DST & TechnoXian |
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowthamnow&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamnow&theme=dark" width="400">
-</p>
+### 📊 Development Activity
 
----
-
-### 📫 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/gowtham-t/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/gowthamnow">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:gowthamthangaraj18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gowthamnow&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
-</p>
+```text
+🌙 Night Owl Coding Sessions  ████████████░░░░░░ 65% 
+🚀 FPGA Projects            ██████████████░░░ 80% 
+🤖 Embedded Systems         █████████████░░░░ 75% 
+🔌 PCB Designs              ████████████░░░░░░ 60% 
