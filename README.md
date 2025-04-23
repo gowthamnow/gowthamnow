@@ -49,8 +49,8 @@
 ---
 
 ### 🚀 Featured Projects
-| Project | Description | Demo |
-|---------|-------------|------|
+| Project | Description |
+|---------|-------------|
 | [VSD Maze Robot](https://github.com/gowthamnow/VSD-MAZE-ROBOT) | FPGA-based autonomous maze solver |
 | [RISC-V SoC Design](https://github.com/gowthamnow/riscv-soc) | Shakti processor-based system-on-chip |
 | [Smart PCB Tester](https://github.com/gowthamnow/pcb-tester) | Automated PCB fault detection system | 
