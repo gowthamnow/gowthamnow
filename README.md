@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add social media links if you have any (LinkedIn, Twitter, etc.) -->
   <a href="https://www.linkedin.com/in/gowtham-t/" target="_blank" rel="noreferrer">LinkedIn</a> | 
   <a href="https://twitter.com/gowthamnow" target="_blank" rel="noreferrer">Twitter</a> | 
   <a href="https://github.com/gowthamnow" target="_blank" rel="noreferrer">GitHub</a>
@@ -30,6 +29,18 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
+  <a href="https://www.cadence.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cadence_Design_Systems_Logo.svg" alt="cadence" width="40" height="40"/>
+  </a>
+  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Altium_Logo.png" alt="altium" width="40" height="40"/>
+  </a>
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Xilinx_logo.svg" alt="vivado" width="40" height="40"/>
+  </a>
+  <a href="https://www.diptrace.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/DipTrace_logo.svg" alt="diptrace" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">About Me:</h3>
@@ -40,5 +51,11 @@
 <h3 align="left">What I'm Learning:</h3>
 <p align="left">
   I’m actively learning **Firmware Creation** and exploring **RISC-V**, which is an open-source hardware instruction set architecture. I’m excited to apply my knowledge of VLSI and PCB design to embedded systems development and firmware programming.
+</p>
+
+<h3 align="left">Resume:</h3>
+<p align="left">
+  📄 You can view my resume and professional experience [here](https://link-to-your-resume.com).  
+  Feel free to reach out to me for collaboration opportunities or any inquiries.
 </p>
 
