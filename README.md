@@ -67,7 +67,7 @@
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/gowtham-t/">
+  <a href="[https://www.linkedin.com/in/gowtham-t/](https://www.linkedin.com/in/gowtham-t-73a2b7299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/gowthamnow">
