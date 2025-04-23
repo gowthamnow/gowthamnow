@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GOWTHAM T</h1>
-<h3 align="center">A passionate VSLI and PCB Designer from India</h3>
+<h3 align="center">A passionate VLSI and PCB Designer from India</h3>
 
 - 🔭 I’m currently working on [VSD FPGA](https://github.com/gowthamnow/VSD-MAZE-ROBOT)
 
