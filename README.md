@@ -51,9 +51,9 @@
 ### 🚀 Featured Projects
 | Project | Description | Demo |
 |---------|-------------|------|
-| [VSD Maze Robot](https://github.com/gowthamnow/VSD-MAZE-ROBOT) | FPGA-based autonomous maze solver | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F6YW1iN3Z2czk0aG1tZ2Z4bWl4Z2J1d2V4dHhxemR5cG1sN3J5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btT1T9qpQZWhNl6/giphy.gif" width="200"> |
-| [RISC-V SoC Design](https://github.com/gowthamnow/riscv-soc) | Shakti processor-based system-on-chip | [Watch Video](https://youtu.be/your-demo-link) |
-| [Smart PCB Tester](https://github.com/gowthamnow/pcb-tester) | Automated PCB fault detection system | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F6YW1iN3Z2czk0aG1tZ2Z4bWl4Z2J1d2V4dHhxemR5cG1sN3J5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btT1T9qpQZWhNl6/giphy.gif" width="200"> |
+| [VSD Maze Robot](https://github.com/gowthamnow/VSD-MAZE-ROBOT) | FPGA-based autonomous maze solver |
+| [RISC-V SoC Design](https://github.com/gowthamnow/riscv-soc) | Shakti processor-based system-on-chip |
+| [Smart PCB Tester](https://github.com/gowthamnow/pcb-tester) | Automated PCB fault detection system | 
 
 ---
 
