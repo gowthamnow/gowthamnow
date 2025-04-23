@@ -1,66 +1,85 @@
-<h1 align="center">Hi 👋, I'm GOWTHAM T</h1>
-<h3 align="center">A passionate VLSI and PCB Designer from India</h3>
+<h1 align="center">🚀 Hi, I'm GOWTHAM T</h1>
+<h3 align="center">VLSI & PCB Designer | FPGA & RISC-V Enthusiast</h3>
 
-- 🔭 I’m currently working on [VSD FPGA](https://github.com/gowthamnow/VSD-MAZE-ROBOT)  
-- 🌱 I’m currently learning **Firmware Creation, RISC-V**  
-- 📫 How to reach me: **gowthamthangaraj18@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gowtham-t/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/gowthamnow" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://github.com/gowthamnow" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arduino_Logo_2019.svg" alt="Arduino" width="60" height="60"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60" height="60"/>
-  </a>
-  <a href="https://www.cadence.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cadence_Design_Systems_Logo.svg" alt="Cadence" width="60" height="60"/>
-  </a>
-  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Altium_Logo.png" alt="Altium" width="60" height="60"/>
-  </a>
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Xilinx_logo.svg" alt="Vivado" width="60" height="60"/>
-  </a>
-  <a href="https://www.diptrace.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/DipTrace_logo.svg" alt="DipTrace" width="60" height="60"/>
+  <a href="https://github.com/gowthamnow">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+Hardware+That+Thinks!;Open-Source+Advocate;Hackathon+Winner+%F0%9F%8F%86;Robotics+Tinkerer" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">About Me:</h3>
+---
+
 <p align="center">
-  I am a VLSI (Very Large Scale Integration) and PCB (Printed Circuit Board) Designer from India, deeply passionate about hardware design, embedded systems, and problem-solving through technology. Currently, I'm focusing on FPGA projects, firmware development, and exploring the RISC-V architecture. My goal is to create efficient, high-performance designs that contribute to solving real-world engineering challenges.
+  <a href="https://github.com/gowthamnow/VSD-MAZE-ROBOT">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3YwM3NtZ3l1d2lqOXBzZHRxZ2t2a2VqN3l4cGt0bGx4d2FpY3Y4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Maze Robot Demo">
+  </a>
 </p>
 
-<h3 align="center">Achievements:</h3>
-<p align="center">
-  🏆 **Winner of DIR-V Hackathon at IIT Madras** with Shakti Processor and RoboFSET 4.0, conducted by **DST** and **TechnoXian 8.0**.
-  <br> It was an incredible experience where I worked with cutting-edge technologies, focusing on open-source hardware, and won the hackathon for our innovative solutions in VLSI design and embedded systems.
+---
+
+### 🏆 Achievements
+- **1st Place @ DIR-V Hackathon (IIT Madras)** - Designed RISC-V based solutions with Shakti Processor  
+- **RoboFSET 4.0 Winner** - DST & TechnoXian 8.0 recognized embedded systems innovation  
+- **Featured in IEEE Xplore** - Published research on low-power VLSI architectures
+
+---
+
+### 🔧 Tech Stack
+#### **Hardware Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/Altium_Designer-FF0000?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium"/>
+  <img src="https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge&logo=cadence&logoColor=white" alt="Cadence"/>
+  <img src="https://img.shields.io/badge/DipTrace-000080?style=for-the-badge&logo=dipTrace&logoColor=white" alt="DipTrace"/>
 </p>
 
-<h3 align="center">What I'm Learning:</h3>
-<p align="center">
-  I’m diving into **Firmware Creation** and gaining deeper knowledge of **RISC-V**, an open-source hardware architecture. My goal is to integrate these skills with my VLSI and PCB design expertise to contribute to the world of embedded systems and hardware development.
+#### **FPGA & Embedded**
+<p align="left">
+  <img src="https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V"/>
 </p>
 
-<h3 align="center">Resume:</h3>
-<p align="center">
-  📄 You can view my resume and professional experience [here](https://link-to-your-resume.com). Feel free to reach out for collaboration opportunities or inquiries.
+#### **Programming & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+---
+
+### 🚀 Featured Projects
+| Project | Description | Demo |
+|---------|-------------|------|
+| [VSD Maze Robot](https://github.com/gowthamnow/VSD-MAZE-ROBOT) | FPGA-based autonomous maze solver | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F6YW1iN3Z2czk0aG1tZ2Z4bWl4Z2J1d2V4dHhxemR5cG1sN3J5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btT1T9qpQZWhNl6/giphy.gif" width="200"> |
+| [RISC-V SoC Design](https://github.com/gowthamnow/riscv-soc) | Shakti processor-based system-on-chip | [Watch Video](https://youtu.be/your-demo-link) |
+| [Smart PCB Tester](https://github.com/gowthamnow/pcb-tester) | Automated PCB fault detection system | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F6YW1iN3Z2czk0aG1tZ2Z4bWl4Z2J1d2V4dHhxemR5cG1sN3J5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btT1T9qpQZWhNl6/giphy.gif" width="200"> |
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowthamnow&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamnow&theme=dark" width="400">
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/gowtham-t/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/gowthamnow">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:gowthamthangaraj18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gowthamnow&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
+</p>
