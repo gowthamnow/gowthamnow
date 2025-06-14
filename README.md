@@ -1,4 +1,5 @@
 <h1 align="center">🚀 Hi, I'm GOWTHAM T</h1>
+<h2 align="center">Intern at Shakra Innovation(IIT MADRAS)
 <h3 align="center">VLSI & PCB Designer | FPGA & RISC-V Enthusiast</h3>
 
 <p align="center">
@@ -19,8 +20,8 @@
 
 ### 🏆 Achievements
 - **1st Place @ DIR-V Hackathon (IIT Madras)** - Designed RISC-V based solutions with Shakti Processor  
-- **RoboFSET 4.0 Winner** - DST & TechnoXian 8.0 recognized embedded systems innovation  
-- **Featured in IEEE Xplore** - Published research on low-power VLSI architectures
+- **RoboFEST 4.0 Winner** - DST & TechnoXian 8.0 recognized embedded systems innovation
+
 
 ---
 
