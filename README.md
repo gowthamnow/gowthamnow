@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hi, I'm GOWTHAM T</h1>
 <h3 align="center">Intern at Shakra Innovation(IIT MADRAS)
-<h4 align="center">VLSI & PCB Designer | FPGA & RISC-V Enthusiast</h3>
+<h4 align="center">VLSI & PCB Designer | FPGA & Embbered Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/gowthamnow">
