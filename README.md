@@ -47,16 +47,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-| Project | Description |
-|---------|-------------|
-| [VSD Maze Robot](https://github.com/gowthamnow/VSD-MAZE-ROBOT) | FPGA-based autonomous maze solver |
-| [RISC-V SoC Design](https://github.com/gowthamnow/riscv-soc) | Shakti processor-based system-on-chip |
-| [Smart PCB Tester](https://github.com/gowthamnow/pcb-tester) | Automated PCB fault detection system | 
-
----
 
 ### 📈 GitHub Stats
 <p align="center">
