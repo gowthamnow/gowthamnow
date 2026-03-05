@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hi, I'm GOWTHAM T</h1>
-<h3 align="center">Intern at Shakra Innovation(IIT MADRAS)
-<h4 align="center">Embbered System and PCB</h3>
+<h3 align="center">Embbered System and PCB
+<h4 align="center">Work Experience : Embedded Intern at SHAKRA INNOVATION (IIT MADRAS)</h3>
 
 <p align="center">
   <a href="https://github.com/gowthamnow">
