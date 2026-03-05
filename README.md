@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm GOWTHAM T</h1>
-<h3 align="center">Embbered System and PCB
+<h3 align="center">Embedded System and PCB
 <h4 align="center">Work Experience : Embedded Intern at SHAKRA INNOVATION (IIT MADRAS)</h3>
 
 <p align="center">
